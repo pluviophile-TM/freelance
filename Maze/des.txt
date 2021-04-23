@@ -1,0 +1,2 @@
+a random table with two random point named p and s and random walls wich are shown by #
+and it finds a random way between s and p using dfs 
